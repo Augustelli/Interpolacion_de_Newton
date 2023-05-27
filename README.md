@@ -15,7 +15,7 @@ La interpolación de Newton es un método utilizado para estimar valores descono
 
 Si deseas ejecutar este programa en Google Colab, sigue los pasos a continuación:
 
-1. Haz clic en el siguiente enlace para abrir el archivo `interpolacion_newton.ipynb` en Google Colab: [Abrir en Google Colab](https://colab.research.google.com/github/Augustelli/Interpolacion_de_Newton.git/blob/master/interpolacion_newton.ipynb).
+1. Haz clic en el siguiente enlace para abrir el archivo `interpolacion_newton.ipynb` en Google Colab: [Abrir en Google Colab]https://colab.research.google.com/github/Augustelli/Interpolacion_de_Newton/blob/master/Metodo_de_Interpolaci%C3%B3n_de_Newton.ipynb).
 
 2. Una vez abierto en Google Colab, puedes ejecutar el código siguiendo las celdas y las instrucciones proporcionadas en el notebook.
 
